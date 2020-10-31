@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-     🔒 <a href="#"> Standard Footer </a>
+     🔒 <a href="#"> Tesla </a>
 </h1>
 
 <h4 align="center">
@@ -16,12 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-🔒 Rodapé Oficial dos projetos da developer mattos
-
----
-
-## 👁️‍🗨️ Release 0.0.0.1
-
+🔒 
 
 ---
 
