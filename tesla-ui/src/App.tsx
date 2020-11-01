@@ -1,8 +1,17 @@
 import React from 'react';
 
+import Page from './components/Page'
+
+import { GlobalStyles } from './styles/GlobalStyle'
+
 function App() {
   return (
-<h1>Tesla UI</h1>
+    <>
+<Page/>
+
+<GlobalStyles/>
+
+</>
   );
 }
 
