@@ -8,7 +8,7 @@ function App() {
   return (
    <>
 
-  <Page />
+    <Page />
 
    <GlobalStyles />
 
