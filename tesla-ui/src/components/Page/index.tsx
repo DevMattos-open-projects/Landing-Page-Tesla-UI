@@ -1,4 +1,4 @@
-import React from 'react' ;
+import React from 'react' 
 
 import { ModelsWrapper, ModelSection } from '../Model'
 import DefaultOverlayContent from '../DefaultOverlayContent'
@@ -14,9 +14,9 @@ const Page: React.FC = () => {
                 modelName="Model One"
                 overlayNode={
                     <DefaultOverlayContent
-                     label="Model One"
-                     description="Order Online for Delivery"
-                    />
+                      label="model one"
+                     description ="Order Online for Delivery"
+                />
                 }
                 />
             </div>

@@ -4,17 +4,17 @@ import { Buttons, Container, Heading } from './styles';
 
 interface Props {
     label: string
-    descriptio: string
+    description: string
 }
 
 const DefaultOverlayContent: React.FC <Props>= ({
-    label, descriptio
+    label, description
 }) => {
     return (
         <Container>
             <Heading>
             <h1>{label}</h1>
-            <h2>{ descriptio}</h2>
+            <h2>{ description}</h2>
             </Heading>
 
             <Buttons>
